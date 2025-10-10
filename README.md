@@ -16,3 +16,4 @@
 ## Automação de Segurança
 ## Descoberta e Monitoramento Contínuo
 ## Segmentação de Redes
+## Treinamento e Atualização Constante
