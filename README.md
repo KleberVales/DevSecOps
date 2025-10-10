@@ -18,3 +18,7 @@
 ## Segmentação de Redes
 ## Treinamento e Atualização Constante
 ## Gestão de Credenciais no Código
+
+---
+
+## Principais Componentes
