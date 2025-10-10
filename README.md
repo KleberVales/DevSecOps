@@ -22,3 +22,4 @@
 ---
 
 ## Principais Componentes
+## Tipos de Vault
