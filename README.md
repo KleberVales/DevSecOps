@@ -15,3 +15,4 @@
 ## Privileged Access Management
 ## Automação de Segurança
 ## Descoberta e Monitoramento Contínuo
+## Segmentação de Redes
