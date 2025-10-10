@@ -14,3 +14,4 @@
 ## **Gestão de Identidade e Acesso (IAM)**
 ## Privileged Access Management
 ## Automação de Segurança
+## Descoberta e Monitoramento Contínuo
